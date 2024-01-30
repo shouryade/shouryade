@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋, I'm Shourya De
 
-I'm a passionate software developer and aspiring AI enthusiast, currently pursuing a Bachelor's degree in Computer Science and Engineering at Thapar Institute of Engineering Technology.  
+I'm a pre-final year student pursuing a Bachelor's degree in Computer Science and Engineering from Thapar Institute of Engineering and Technology.
 Beyond the lines of code, you can find me engrossed in a good book or engaged in an intense game of table tennis. If I'm not answering calls, chances are I'm deeply immersed in a hackathon!  
 Currently my projects range from full-stack web applications to AI/ML implementations.
 
