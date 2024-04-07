@@ -21,7 +21,7 @@ Beyond the lines of code, you can find me engrossed in a good book or engaged in
 Currently my projects range from full-stack web applications to AI/ML implementations.
 
 ## 🚀 Current Focus
-- 🤔  I am currently learning how to use Kubernetes _effectively_.
+- 🤔  I am currently learning how to use Redis _effectively_ to scale.
 - ⚡ I am looking to collaborate more on open source projects and innovative ideas.
 - 💬 Anything related to college ki padhai, backend dev stuff or anything tech!
 
