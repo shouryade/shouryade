@@ -25,6 +25,19 @@ Currently my projects range from full-stack web applications to AI/ML implementa
 - ⚡ I am looking to collaborate more on open source projects and innovative ideas.
 - 💬 Anything related to college ki padhai, backend dev or fun anecdotes!
 
+<details>
+  <summary> 👀 CS Resources for Juniors @ TIET </summary>
+
+  | 🏫 **Course**              | 📖 **Description or Resource**                                     |
+  |---------------------------|--------------------------------------------------------------------|
+  | 🖧 [Network Programming](https://github.com/shouryade/network-programming) | Network Programming Lab solution implementations. |
+  | 🤖 [Optimisation Techniques](https://github.com/shouryade/matlab-stuff) | Matlab scripts for Optimisation Techniques lab.   |
+  | 🔢 [Numerical Analysis](https://github.com/shouryade/matlab-stuff/tree/numerical-analysis) | Matlab Scripts for Numerical Analysis labs.       |
+  | 🖥️ [Operating Systems](https://github.com/shouryade/ucs303) | Operating Systems lab scripts for (process/disk) scheduling algorithms. |
+
+</details>
+
+
 <!---
 ## 🚀 Fun/Exploratory Projects
 
