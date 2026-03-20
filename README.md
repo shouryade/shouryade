@@ -30,11 +30,11 @@ Currently my projects range from full-stack web applications to AI/ML implementa
 
   | 🏫 **Course**              | 📖 **Description or Resource**                                     |
   |---------------------------|--------------------------------------------------------------------|
+  | 📝 [LaTeX Templates](https://github.com/shouryade/latex-templates) | Professional LaTeX templates for academic reports, capstone projects, and thesis documents. |
   | 🖧 [Network Programming](https://github.com/shouryade/network-programming) | Network Programming Lab solution implementations. |
   | 🤖 [Optimisation Techniques](https://github.com/shouryade/matlab-stuff) | Matlab scripts for Optimisation Techniques lab.   |
   | 🔢 [Numerical Analysis](https://github.com/shouryade/matlab-stuff/tree/numerical-analysis) | Matlab Scripts for Numerical Analysis labs.       |
   | 🖥️ [Operating Systems](https://github.com/shouryade/ucs303) | Operating Systems lab scripts for (process/disk) scheduling algorithms. |
-
 </details>
 
 
